@@ -1,0 +1,10 @@
+ESTE ESE UN REGISTRO DE ACTIVIDADES DEL S7 
+=========================================    
+Autor : Erick Dominguez 
+Fecha : 2025-05-06T10:20PM
+2404282053 Creacion de archivo Logs
+2505061103 Creacion programa pares.py
+202507051208 Creacion programa Histograma.py
+202507051251 Modificacion Programa Histogreama.py
+202507050106 Cracion programa res_stadistico.py
+202507050124 Creacion programa primos.py
